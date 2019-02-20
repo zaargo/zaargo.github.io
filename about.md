@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /sobre/
+permalink: /about/
 ---
 
 O Zaargo é um aplicativo de compra e venda desenvolvido pela 2k-labs com o que há de mais moderno em framework.
